@@ -1,13 +1,13 @@
 ---
 title: Bluebeard, the resourceful Odysseus, and the original sin (en).Ο Κυανοπώγων, ο πολυμήχανος Οδυσσέας και το προπατορικό αμάρτημα (el). O Kyanopógon, o polymíchanos Odysséas kai to propatorikó amártima.
 author: Nikas, Konstantinos N.
-date:2020/02/04
-excerpt:Θα την ανοίξουμε, γράφει ένας νηφάλιος στοχαστής, ο George Steiner την τελευταία πόρτα, στον πύργο του Κυανοπώγωνα.
+date: 2020/02/04
+excerpt: Θα την ανοίξουμε, γράφει ένας νηφάλιος στοχαστής, ο George Steiner την τελευταία πόρτα, στον πύργο του Κυανοπώγωνα.
 Ακόμα και αν οδηγεί, ίσως επειδή οδηγεί, σε πραγματικότητες που είναι πέρα από την κατανόηση και τον έλεγχο του ανθρώπου.
 Ίσως γιατί ταυτοχρόνως ελπίζουμε, πάντοτε πως κάποιος πολυμήχανος Οδυσσέας, θα βρει και τον τρόπο να υπερβαίνουμε τις συνέπειες, αυτής της ύβρεως.
 Θα προχωρήσει η ανθρωπότητα, πιθανότατα σε αυτό το παιχνίδι της δοκιμής και του λάθους, πειραματιζόμενη πάνω στην ίδια της την υπόσταση και τα οφέλη ή τα δεινά της τεχνολογίας..
-categories:["Religion";"Science";"Technology";"Θρησκεία";"Επιστήμη";"Τεχνολογία"]
-tags:["Digital Humanities";"Christian Testimony";"High Technology";"Χριστιανική Μαρτυρία";"Υψηλή Τεχνολογία"]
+categories: [ Religion; Science; Technology; Θρησκεία; Επιστήμη; Τεχνολογία ]
+tags: [Digital Humanities; Christian Testimony; High Technology ; Χριστιανική Μαρτυρία ; Υψηλή Τεχνολογία ]
 ---
 
 ### Article.Religion. Bluebeard, the resourceful Odysseus, and the original sin (en). Άρθρο. Θρησκεία. Ο Κυανοπώγων, ο πολυμήχανος Οδυσσέας και το προπατορικό αμάρτημα (el). Αrthro. Threskeιa. O Kyanopοgon, o polymechanos Odyssεas kai to propatorekο amαrtema.
@@ -134,7 +134,6 @@ Christian Testimony, High Technology, Χριστιανική Μαρτυρία, �
 #### Σημείωση
 
 > [!NOTE]
->
 > Αυτό το άρθρο περιέχει πληροφορίες από την [FAST (Faceted Application of Subject Terminology) Data](https://www.oclc.org/research/themes/data-science/fast/download.html) η οποία διατίθεται από την OCLC Online Computer Library Center, Inc. υπό την [ODC Attribution License](https://www.oclc.org/research/themes/data-science/fast/odcby.html).
 >
 > This article contains information from [FAST (Faceted Application of Subject Terminology) Data](https://www.oclc.org/research/themes/data-science/fast/download.html) which is made available by OCLC Online Computer Library Center, Inc. under the [ODC Attribution License](https://www.oclc.org/research/themes/data-science/fast/odcby.html).
@@ -152,7 +151,7 @@ Christian Testimony, High Technology, Χριστιανική Μαρτυρία, �
 
 [1]: https://gallica.bnf.fr/ark:/12148/bpt6k313764d	"I. Gennádios, “A Sketch of the History of Education in Greece by J. Gennadius,” in *The Proceedings of the Edinburgh Conference of the World Federation of Education Associations*, Edinburgh, 1925, p. 47"
 
- [1] I. Gennádios, “A Sketch of the History of Education in Greece by J. Gennadius,” in *The Proceedings of the Edinburgh Conference of the World Federation of Education Associations*, Edinburgh, 1925, p. 47 [Online]. Available: https://gallica.bnf.fr/ark:/12148/bpt6k313764d. [Accessed: 15-Feb-2020]
+[1] I. Gennádios, “A Sketch of the History of Education in Greece by J. Gennadius,” in *The Proceedings of the Edinburgh Conference of the World Federation of Education Associations*, Edinburgh, 1925, p. 47 [Online]. Available: https://gallica.bnf.fr/ark:/12148/bpt6k313764d. [Accessed: 15-Feb-2020]
 
 
 
@@ -172,7 +171,7 @@ Christian Testimony, High Technology, Χριστιανική Μαρτυρία, �
 
 [3]:https://archive.org/details/biblegalleryillu00unse/page/n9/mode/2up	"G. Dore, *Bible Gallery Illustratd by Gustave Dore, with memoir of Dore and descriptive letter-press*. 1880"
 
- [3] G. Dore, *Bible Gallery Illustratd by Gustave Dore, with memoir of Dore and descriptive letter-press*. 1880. [Online]. Available: https://archive.org/details/biblegalleryillu00unse/page/n9/mode/2up. [Accessed: 11-Feb-2020]
+[3] G. Dore, *Bible Gallery Illustratd by Gustave Dore, with memoir of Dore and descriptive letter-press*. 1880. [Online]. Available: https://archive.org/details/biblegalleryillu00unse/page/n9/mode/2up. [Accessed: 11-Feb-2020]
 
 
 
@@ -182,7 +181,7 @@ Christian Testimony, High Technology, Χριστιανική Μαρτυρία, �
 
 [4]:https://www.rijksmuseum.nl/en/search/objects?q=eva+and+adam&p=2&ps=12&st=Objects&ii=8#/RP-T-BR-1918-513,20	"W. Crane, *Adam en Eva*. 1915"
 
- [4] W. Crane, *Adam en Eva*. 1915. [Online]. Available: https://www.rijksmuseum.nl/en/search/objects?q=eva+and+adam&p=2&ps=12&st=Objects&ii=8#/RP-T-BR-1918-513,20. [Accessed: 11-Feb-2020]
+[4] W. Crane, *Adam en Eva*. 1915. [Online]. Available: https://www.rijksmuseum.nl/en/search/objects?q=eva+and+adam&p=2&ps=12&st=Objects&ii=8#/RP-T-BR-1918-513,20. [Accessed: 11-Feb-2020]
 
 
 
@@ -192,7 +191,7 @@ Christian Testimony, High Technology, Χριστιανική Μαρτυρία, �
 
 [5]:https://gallica.bnf.fr/ark:/12148/btv1b8612030k/f170	"G. Doré, *Les Contes De Perrault / Dessins Par Gustave Doré*. 1862"
 
- [5] G. Doré, *Les Contes De Perrault / Dessins Par Gustave Doré*. 1862. [Online]. Available: https://gallica.bnf.fr/ark:/12148/btv1b8612030k/f170. [Accessed: 11-Feb-2020]
+[5] G. Doré, *Les Contes De Perrault / Dessins Par Gustave Doré*. 1862. [Online]. Available: https://gallica.bnf.fr/ark:/12148/btv1b8612030k/f170. [Accessed: 11-Feb-2020]
 
 
 
@@ -202,7 +201,7 @@ Christian Testimony, High Technology, Χριστιανική Μαρτυρία, �
 
 [6]:https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/John_William_Waterhouse_-_Ulysses_and_the_Sirens_%281891%29.jpg/800px-John_William_Waterhouse_-_Ulysses_and_the_Sirens_%281891%29.jpg	"J. W. Waterhouse, *Ulysses and the Sirens*. 1891"
 
- [6] J. W. Waterhouse, *Ulysses and the Sirens*. 1891. [Online]. Available: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/John_William_Waterhouse_-_Ulysses_and_the_Sirens_%281891%29.jpg/800px-John_William_Waterhouse_-_Ulysses_and_the_Sirens_%281891%29.jpg. [Accessed: 11-Feb-2020]
+[6] J. W. Waterhouse, *Ulysses and the Sirens*. 1891. [Online]. Available: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/John_William_Waterhouse_-_Ulysses_and_the_Sirens_%281891%29.jpg/800px-John_William_Waterhouse_-_Ulysses_and_the_Sirens_%281891%29.jpg. [Accessed: 11-Feb-2020]
 
 
 
@@ -212,7 +211,7 @@ Christian Testimony, High Technology, Χριστιανική Μαρτυρία, �
 
 [7]:https://www.youtube.com/watch?v=SNUs3cJYOo0&t=1610s	"Ε. Γκανάς, “Η Χριστιανική Μαρτυρία στην Εποχή της Υψηλής Τεχνολογίας,” Πνευματικό Κέντρο ΙΜΚ, Ιονίου Ακαδημίας, Κέρκυρα, 26-Jan-2020"
 
- [7] Ε. Γκανάς, “Η Χριστιανική Μαρτυρία στην Εποχή της Υψηλής Τεχνολογίας,” Πνευματικό Κέντρο ΙΜΚ, Ιονίου Ακαδημίας, Κέρκυρα, 26-Jan-2020. [Online]. Available: https://www.youtube.com/watch?v=SNUs3cJYOo0&t=1610s. [Accessed: 11-Feb-2020]
+[7] Ε. Γκανάς, “Η Χριστιανική Μαρτυρία στην Εποχή της Υψηλής Τεχνολογίας,” Πνευματικό Κέντρο ΙΜΚ, Ιονίου Ακαδημίας, Κέρκυρα, 26-Jan-2020. [Online]. Available: https://www.youtube.com/watch?v=SNUs3cJYOo0&t=1610s. [Accessed: 11-Feb-2020]
 
 
 
@@ -222,7 +221,7 @@ Christian Testimony, High Technology, Χριστιανική Μαρτυρία, �
 
 [8]:https://www.metmuseum.org/art/collection/search/436576	"The Metropolitan Museum of Art, “El Greco (Domenikos Theotokopoulos) | The Vision of Saint John | The Met,” *The Metropolitan Museum of Art*, 2014."
 
- [8] The Metropolitan Museum of Art, “El Greco (Domenikos Theotokopoulos) | The Vision of Saint John | The Met,” *The Metropolitan Museum of Art*, 2014. [Online]. Available: https://www.metmuseum.org/art/collection/search/436576. [Accessed: 15-Feb-2020]
+[8] The Metropolitan Museum of Art, “El Greco (Domenikos Theotokopoulos) | The Vision of Saint John | The Met,” *The Metropolitan Museum of Art*, 2014. [Online]. Available: https://www.metmuseum.org/art/collection/search/436576. [Accessed: 15-Feb-2020]
 
 
 
@@ -232,7 +231,7 @@ Christian Testimony, High Technology, Χριστιανική Μαρτυρία, �
 
 [9]: https://www.youtube.com/watch?v=SNUs3cJYOo0&t=1611s	"DHMHTRIOS KOSKINAS, “2020-01-26 A΄ ΕΚΔΗΛΩΣΗ ΤΟΥ ΕΛΕΥΘΕΡΟΥ ΠΑΝΕΠΙΣΤΗΜΙΟΥ ΜΕ ΤΟΝ π. ΕΥΑΓΓΕΛΟ ΓΚΑΝΑ,” *YouTube*. 2020"
 
- [9] DHMHTRIOS KOSKINAS, “2020-01-26 A΄ ΕΚΔΗΛΩΣΗ ΤΟΥ ΕΛΕΥΘΕΡΟΥ ΠΑΝΕΠΙΣΤΗΜΙΟΥ ΜΕ ΤΟΝ π. ΕΥΑΓΓΕΛΟ ΓΚΑΝΑ,” *YouTube*. 2020. [Online]. Available: https://www.youtube.com/watch?v=SNUs3cJYOo0&t=1611s. [Accessed: 15-Feb-2020]
+[9] DHMHTRIOS KOSKINAS, “2020-01-26 A΄ ΕΚΔΗΛΩΣΗ ΤΟΥ ΕΛΕΥΘΕΡΟΥ ΠΑΝΕΠΙΣΤΗΜΙΟΥ ΜΕ ΤΟΝ π. ΕΥΑΓΓΕΛΟ ΓΚΑΝΑ,” *YouTube*. 2020. [Online]. Available: https://www.youtube.com/watch?v=SNUs3cJYOo0&t=1611s. [Accessed: 15-Feb-2020]
 
 
 
@@ -242,7 +241,7 @@ Christian Testimony, High Technology, Χριστιανική Μαρτυρία, �
 
 [10]:https://imcorfu.gr/%CF%81%CE%B1%CE%B4%CE%B9%CF%8C%CF%86%CF%89%CE%BD%CE%BF/	"WebTeam, “Ραδιόφωνο • Ιερά Μητρόπολη Κερκύρας,” *Ιερά Μητρόπολη Κερκύρας*, 2018."
 
- [10] WebTeam, “Ραδιόφωνο • Ιερά Μητρόπολη Κερκύρας,” *Ιερά Μητρόπολη Κερκύρας*, 2018. [Online]. [Online]. Available: https://imcorfu.gr/%CF%81%CE%B1%CE%B4%CE%B9%CF%8C%CF%86%CF%89%CE%BD%CE%BF/. [Accessed: 15-Feb-2020]
+[10] WebTeam, “Ραδιόφωνο • Ιερά Μητρόπολη Κερκύρας,” *Ιερά Μητρόπολη Κερκύρας*, 2018. [Online]. [Online]. Available: https://imcorfu.gr/%CF%81%CE%B1%CE%B4%CE%B9%CF%8C%CF%86%CF%89%CE%BD%CE%BF/. [Accessed: 15-Feb-2020]
 
 
 
@@ -252,7 +251,7 @@ Christian Testimony, High Technology, Χριστιανική Μαρτυρία, �
 
 [11]:https://babel.hathitrust.org/cgi/pt?id=hvd.32044088782131&view=1up&seq=123	"HathiTrust Digital Library, “Epistolai I.A. Kapodistria : kyvernētou tēs Hellados, diplōmatikai, dioikētikai kai idiōtikai, grapheisai apo 8 apriliou 1827 mechris 26 septemvriou ... 1-2.,” *HathiTrust*, 2018."
 
- [11] HathiTrust Digital Library, “Epistolai I.A. Kapodistria : kyvernētou tēs Hellados, diplōmatikai, dioikētikai kai idiōtikai, grapheisai apo 8 apriliou 1827 mechris 26 septemvriou ... 1-2.,” *HathiTrust*, 2018. [Online]. Available: https://babel.hathitrust.org/cgi/pt?id=hvd.32044088782131&view=1up&seq=123. [Accessed: 15-Feb-2020]
+[11] HathiTrust Digital Library, “Epistolai I.A. Kapodistria : kyvernētou tēs Hellados, diplōmatikai, dioikētikai kai idiōtikai, grapheisai apo 8 apriliou 1827 mechris 26 septemvriou ... 1-2.,” *HathiTrust*, 2018. [Online]. Available: https://babel.hathitrust.org/cgi/pt?id=hvd.32044088782131&view=1up&seq=123. [Accessed: 15-Feb-2020]
 
 
 
@@ -262,7 +261,7 @@ Christian Testimony, High Technology, Χριστιανική Μαρτυρία, �
 
 [12]:https://www.cup.gr/book/emis-i-thniti/	"ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ ΙΔΡΥΜΑ ΤΕΧΝΟΛΟΓΙΑΣ &amp; ΕΡΕΥΝΑΣ, “ΕΜΕΙΣ ΟΙ ΘΝΗΤΟΙ,” *Πανεπιστημιακές Εκδόσεις Κρήτης*, 14-Mar-2016."
 
- [12] ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ ΙΔΡΥΜΑ ΤΕΧΝΟΛΟΓΙΑΣ &amp; ΕΡΕΥΝΑΣ, “ΕΜΕΙΣ ΟΙ ΘΝΗΤΟΙ,” *Πανεπιστημιακές Εκδόσεις Κρήτης*, 14-Mar-2016. [Online]. Available: https://www.cup.gr/book/emis-i-thniti/. [Accessed: 15-Feb-2020]
+[12] ΠΑΝΕΠΙΣΤΗΜΙΑΚΕΣ ΕΚΔΟΣΕΙΣ ΚΡΗΤΗΣ ΙΔΡΥΜΑ ΤΕΧΝΟΛΟΓΙΑΣ &amp; ΕΡΕΥΝΑΣ, “ΕΜΕΙΣ ΟΙ ΘΝΗΤΟΙ,” *Πανεπιστημιακές Εκδόσεις Κρήτης*, 14-Mar-2016. [Online]. Available: https://www.cup.gr/book/emis-i-thniti/. [Accessed: 15-Feb-2020]
 
 
 
@@ -272,7 +271,7 @@ Christian Testimony, High Technology, Χριστιανική Μαρτυρία, �
 
 [13]: http://iaath.gr/content/osios-meletios-sepolion	"Ιερά Αρχιεπισκοπή Αθηνών, “Όσιος Μελέτιος Σεπολίων | Ιερά Αρχιεπισκοπή Αθηνών,” *Iaath.gr*, 2014."
 
- [13] Ιερά Αρχιεπισκοπή Αθηνών, “Όσιος Μελέτιος Σεπολίων | Ιερά Αρχιεπισκοπή Αθηνών,” *Iaath.gr*, 2014. [Online]. Available: http://iaath.gr/content/osios-meletios-sepolion. [Accessed: 17-Feb-2020]
+[13] Ιερά Αρχιεπισκοπή Αθηνών, “Όσιος Μελέτιος Σεπολίων | Ιερά Αρχιεπισκοπή Αθηνών,” *Iaath.gr*, 2014. [Online]. Available: http://iaath.gr/content/osios-meletios-sepolion. [Accessed: 17-Feb-2020]
 
 
 
