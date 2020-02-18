@@ -291,6 +291,17 @@ Digital Humanities, Christian Testimony, High Technology, Χριστιανική
 
 
 
+
+
+[16]:https://pemptousia.com/author/petrospan	"“The Three Hierarchs and Education,” *PEMPTOUSIA*, 29-Jan-2020."
+
+[16] https://pemptousia.com/author/petrospan, “The Three Hierarchs and Education,” *PEMPTOUSIA*, 29-Jan-2020. [Online]. Available: https://pemptousia.com/2020/01/the-three-hierarchs-and-education/. [Accessed: 18-Feb-2020]
+
+
+
+
+
+
 ‌
 
 
