@@ -11,7 +11,7 @@ tags: [ Digital Humanities; Christian Testimony; High Technology ; Χριστι�
 
 ---
 
-### Article.Religion. Bluebeard, the resourceful Odysseus, and the original sin (en). Άρθρο. Θρησκεία. Ο Κυανοπώγων, ο πολυμήχανος Οδυσσέας και το προπατορικό αμάρτημα (el). Αrthro. Threskeιa. O Kyanopοgon, o polymechanos Odysseas kai to propatorekο amαrtema.
+### Article.Religion. Bluebeard, the resourceful Odysseus, and the original sin (en). Άρθρο. Θρησκεία. Ο Κυανοπώγων, ο πολυμήχανος Οδυσσέας και το προπατορικό αμάρτημα (el). Αrthro. Threskeιa. O Kyanopοgon, o polymechanos Odysseas kai to propatorekο amartema.
 
 > [!IMPORTANT]
 > Το άρθρο αποτυπώνει αποκλειστικά και μόνο, τις σκέψεις και τις απόψεις του δημιουργού του άρθρου, ως ακροατή της ομιλίας του Πατρός Ευάγγελου Γκανά, με τίτλο **Η χριστιανική μαρτυρία στην εποχή της υψηλής τεχνολογίας** για το Ανοικτό Πανεπιστήμιο της Ιεράς Μητρόπολης Κερκύρας Παξών και Διαποντίων Νήσων. 
@@ -24,7 +24,7 @@ tags: [ Digital Humanities; Christian Testimony; High Technology ; Χριστι�
 
 Την Κυριακή 26 Ιανουαρίου 2020, στις 18:30, στο Πνευματικό Κέντρο της Ιονίου Ακαδημίας, στην Κέρκυρα, η Ιερά Μητρόπολη Κερκύρας, Παξών και Διαποντίων Νήσων και ο Σεβασμιώτατος Μητροπολίτης Κερκύρας, κύριος Νεκτάριος, μαζί με την Ένωση Χριστιανών Επιστημόνων Κέρκυρας, συνδιοργάνωσαν την εκδήλωση με τίτλο, "**Η χριστιανική μαρτυρία στην εποχή της υψηλής τεχνολογίας**" [7], προς τιμήν των εκπαιδευτικών, με την ευκαιρία της εορτής των Τριών Ιεραρχών (30 Ιανουαρίου) και την έναρξη των μαθημάτων του Ανοικτού(Ελεύθερου) Πανεπιστημίου.
 
-Ολόκληρη η εκδήλωση έχει αναρτηθεί στο διαδίκτυο από τον [Πρωτοπρεσβύτερο Δημήτριο Κοσκινά](https://www.youtube.com/watch?v=SNUs3cJYOo0&t=1611s) και επίσης μεταδόθηκε ζωντανά από τον ραδιοφωνικό σταθμό ["Άγιος Σπυρίδων"]([https://imcorfu.gr/%CF%81%CE%B1%CE%B4%CE%B9%CF%8C%CF%86%CF%89%CE%BD%CE%BF/](https://imcorfu.gr/ραδιόφωνο/)).
+Ολόκληρη η εκδήλωση έχει αναρτηθεί στο διαδίκτυο από τον [Πρωτοπρεσβύτερο Δημήτριο Κοσκινά](https://www.youtube.com/watch?v=SNUs3cJYOo0&t=1611s) και επίσης μεταδόθηκε ζωντανά από τον ραδιοφωνικό σταθμό ["Άγιος Σπυρίδων"]([https://imcorfu.gr/%CF%81%CE%B1%CE%B4%CE%B9%CF%8C%CF%86%CF%89%CE%BD%CE%BF/](https://imcorfu.gr/ραδιόφωνο/)). Στην έναρξη της εκδήλωσης, πραγματοποιήθηκε παρουσίαση προγράμματος εκκλησιαστικής μουσικής από τη Σχολή "Ο Άγιος Αρσένιος", υπό τη διεύθυνση του καθηγητή της Σχολής Οικονόμου Πατρός Νεκταρίου Μπόκου.
 
 Συντονιστής της εκδήλωσης, ο [Πρωτοπρεσβύτερος Θεμιστοκλής Μουρτζανός](http://www.biblionet.gr/author/56391/%CF%80._%CE%98%CE%B5%CE%BC%CE%B9%CF%83%CF%84%CE%BF%CE%BA%CE%BB%CE%AE%CF%82_%CE%9C%CE%BF%CF%85%CF%81%CF%84%CE%B6%CE%B1%CE%BD%CF%8C%CF%82), Γενικός Αρχιερατικός Επίτροπος της Ιεράς Μητρόπολης Κερκύρας, Παξών και Διαποντίων Νήσων.
 
@@ -34,7 +34,7 @@ tags: [ Digital Humanities; Christian Testimony; High Technology ; Χριστι�
 
 #### Λέξεις - Κλειδιά
 
-Christian Testimony, High Technology, Χριστιανική Μαρτυρία, Υψηλή Τεχνολογία
+Digital Humanities, Christian Testimony, High Technology, Χριστιανική Μαρτυρία, Υψηλή Τεχνολογία
 
 #### Υπογραμμίσεις
 
@@ -51,7 +51,7 @@ Christian Testimony, High Technology, Χριστιανική Μαρτυρία, �
 
 #### Σκοπός
 
-Απώτερος σκοπός της εκδήλωσης αυτής, όπως εκλαμβάνεται από την πλευρά του ακροατή, είναι η επικοινωνία και ο διάλογος της Εκκλησίας με τον κόσμο των νέων επιστημών της υψηλής τεχνολογίας και της πληροφορίας, υπό το πρίσμα της χριστιανικής διδασκαλίας και κυρίως της χριστιανικής μαρτυρίας, ως απάντηση, στις προκλήσεις, που γεννώνται από την αλματώδη ανάπτυξη των τεχνολογικών εξελίξεων, χωρίς να αναιρείται η συμβολή τους στην βελτίωση και ανάπτυξη του βιοτικού επιπέδου και της καθημερινότητας μας.
+Απώτερος σκοπός της εκδήλωσης αυτής, όπως εκλαμβάνεται από την πλευρά του ακροατή [15], είναι η επικοινωνία και ο διάλογος της Εκκλησίας με τον κόσμο των νέων επιστημών της υψηλής τεχνολογίας και της πληροφορίας, υπό το πρίσμα της χριστιανικής διδασκαλίας και κυρίως της χριστιανικής μαρτυρίας, ως απάντηση, στις προκλήσεις, που γεννώνται από την αλματώδη ανάπτυξη των τεχνολογικών εξελίξεων, χωρίς να αναιρείται η συμβολή τους στην βελτίωση και ανάπτυξη του βιοτικού επιπέδου και της καθημερινότητας μας.
 
 #### Υπόβαθρο
 
@@ -274,6 +274,18 @@ Christian Testimony, High Technology, Χριστιανική Μαρτυρία, �
 [14]: https://yalebooks.yale.edu/book/9780300017106/bluebeards-castle	"Yale University, “In Bluebeard’s Castle | Yale University Press,” *Yale.edu*, 2020."
 
 [14] Yale University, “In Bluebeard’s Castle | Yale University Press,” *Yale.edu*, 2020. [Online]. Available: https://yalebooks.yale.edu/book/9780300017106/bluebeards-castle. [Accessed: 17-Feb-2020]
+
+
+
+
+
+
+
+
+[15]:https://gitpress.io/c/articles/Bluebeard%20the%20resourceful%20Odysseus%20and%20the%20original%20sin	"K. N. Nikas, “Bluebeard the resourceful Odysseus and the original sin - GitPress.io,” *GitPress.io*, 2020."
+
+[15] K. N. Nikas, “Bluebeard the resourceful Odysseus and the original sin - GitPress.io,” *GitPress.io*, 2020. [Online]. Available: https://gitpress.io/c/articles/Bluebeard%20the%20resourceful%20Odysseus%20and%20the%20original%20sin. [Accessed: 18-Feb-2020
+
 
 
 
