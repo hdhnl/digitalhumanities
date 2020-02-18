@@ -1,5 +1,5 @@
 ---
-title: Bluebeard, the resourceful Odysseus, and the original sin (en).Ο Κυανοπώγων, ο πολυμήχανος Οδυσσέας και το προπατορικό αμάρτημα (el). O Kyanopógon, o polymíchanos Odysséas kai to propatorikó amártima.
+title: Bluebeard, the resourceful Odysseus, and the original sin (en).Ο Κυανοπώγων, ο πολυμήχανος Οδυσσέας και το προπατορικό αμάρτημα (el). O Kyanopogon, o polymechanos Odysseas kai to propatoreko amartema.
 author: Nikas, Konstantinos N.
 date: 2020/02/04
 excerpt: Θα την ανοίξουμε, γράφει ένας νηφάλιος στοχαστής, ο George Steiner την τελευταία πόρτα, στον πύργο του Κυανοπώγωνα.
@@ -136,14 +136,10 @@ Christian Testimony, High Technology, Χριστιανική Μαρτυρία, �
 
 > [!NOTE]
 > Αυτό το άρθρο περιέχει πληροφορίες από την [FAST (Faceted Application of Subject Terminology) Data](https://www.oclc.org/research/themes/data-science/fast/download.html) η οποία διατίθεται από την OCLC Online Computer Library Center, Inc. υπό την [ODC Attribution License](https://www.oclc.org/research/themes/data-science/fast/odcby.html).
->
 > This article contains information from [FAST (Faceted Application of Subject Terminology) Data](https://www.oclc.org/research/themes/data-science/fast/download.html) which is made available by OCLC Online Computer Library Center, Inc. under the [ODC Attribution License](https://www.oclc.org/research/themes/data-science/fast/odcby.html).
->
 > Το έργο αυτό έχει αδειοδοτηθεί από μια άδεια [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 > This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
->
 > Οι εικόνες διατίθενται με άδεια Public Domain, η οποία όμως πρέπει να επιβεβαιωθεί ακολουθώντας τους σχετικούς υπερσυνδέσμους.
->
 > The images are available under a Public Domain license, but this must be confirmed by following the relevant hyperlinks.
 
 
