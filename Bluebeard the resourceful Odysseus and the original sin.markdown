@@ -15,7 +15,7 @@ tags: [Digital Humanities, Christian Testimony, High Technology, Χριστια�
 
 ### Article. Religion. Bluebeard, the resourceful Odysseus, and the original sin (en). Άρθρο. Θρησκεία. Ο Κυανοπώγων, ο πολυμήχανος Οδυσσέας και το προπατορικό αμάρτημα (el). Αrthro. Threskeιa. O Kyanopοgon, o polymechanos Odysseas kai to propatorekο amartema.
 
-DOI: 10.5281/zenodo.3677711
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3678029.svg)
 
 > [!IMPORTANT]
 > Το άρθρο αποτυπώνει αποκλειστικά και μόνο, τις σκέψεις και τις απόψεις του δημιουργού του άρθρου, ως ακροατή της ομιλίας του Πατρός Ευάγγελου Γκανά, με τίτλο **Η χριστιανική μαρτυρία στην εποχή της υψηλής τεχνολογίας** για το Ανοικτό Πανεπιστήμιο της Ιεράς Μητρόπολης Κερκύρας Παξών και Διαποντίων Νήσων. 
