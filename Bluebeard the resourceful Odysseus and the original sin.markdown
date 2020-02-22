@@ -2,6 +2,8 @@
 title: Bluebeard, the resourceful Odysseus, and the original sin (en).Ο Κυανοπώγων, ο πολυμήχανος Οδυσσέας και το προπατορικό αμάρτημα (el). O Kyanopogon, o polymechanos Odysseas kai to propatoreko amartema.
 author: Nikas, Konstantinos N.
 date: 2020/02/04
+toc: true
+toc-depth: 10
 excerpt: |
   Θα την ανοίξουμε, γράφει ένας νηφάλιος στοχαστής, ο George Steiner την τελευταία πόρτα, στον πύργο του Κυανοπώγωνα.
   Ακόμα και αν οδηγεί, ίσως επειδή οδηγεί, σε πραγματικότητες που είναι πέρα από την κατανόηση και τον έλεγχο του ανθρώπου.
