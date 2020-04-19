@@ -1,2 +1,2 @@
 # digitalhumanities
-digital humanities
+Articles related to hellenic digital humanities
