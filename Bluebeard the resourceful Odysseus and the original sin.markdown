@@ -1,5 +1,5 @@
 ---
-title: Bluebeard, the resourceful Odysseus, and the original sin (en).Ο Κυανοπώγων, ο πολυμήχανος Οδυσσέας και το προπατορικό αμάρτημα (ελ). Árthro. Thrēskeía. O Kyanopṓgōn, o polymḗchanos Odysséas kai to propatorikó amártēma (el).
+title: Article. Religion. Bluebeard, the resourceful Odysseus, and the original sin (en).Ο Κυανοπώγων, ο πολυμήχανος Οδυσσέας και το προπατορικό αμάρτημα (ελ). Árthro. Thrēskeía. O Kyanopṓgōn, o polymḗchanos Odysséas kai to propatorikó amártēma (el).
 author: Nikas, Konstantinos N.
 date: 2020/02/04
 excerpt: Θα την ανοίξουμε, γράφει ένας νηφάλιος στοχαστής, ο George Steiner την τελευταία πόρτα, στον πύργο του Κυανοπώγωνα.
